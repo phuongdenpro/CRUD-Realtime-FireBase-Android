@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627935854476",
+    "project_id": "realtimedatabase-deaca",
+    "storage_bucket": "realtimedatabase-deaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627935854476:android:5a0d87839e6f7f1b87e0a9",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627935854476-em2t4fu3iik5variic9nagv9idcqu92k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-EyEpd7M9rXqfwNcWk-wxdE4CgR2BHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627935854476-em2t4fu3iik5variic9nagv9idcqu92k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
